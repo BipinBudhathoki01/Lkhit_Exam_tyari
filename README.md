@@ -1,0 +1,1 @@
+# Lkhit_Exam_tyari
