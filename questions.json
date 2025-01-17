@@ -1,0 +1,279 @@
+{
+    "questions": [
+      {
+        "S.N.": 1,
+        "Question": "Which vehicle doesn't need a route permit?",
+        "Options": {
+          "A": "Motorcycle",
+          "B": "Public truck",
+          "C": "Public jeep",
+          "D": "Public bus"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 2,
+        "Question": "What is mandatory while driving?",
+        "Options": {
+          "A": "To use seat belt",
+          "B": "To put on glasses",
+          "C": "To put on jacket",
+          "D": "All of the above"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 3,
+        "Question": "What do you mean by conductor/steward/attendant?",
+        "Options": {
+          "A": "One who drives",
+          "B": "One who has got a license to drive",
+          "C": "One who assists in the vehicle",
+          "D": "All of the above"
+        },
+        "Answer": "C"
+      },
+      {
+        "S.N.": 4,
+        "Question": "What is the main function of the left hand in four-wheelers?",
+        "Options": {
+          "A": "To Brake",
+          "B": "To control handle",
+          "C": "To use hand brake",
+          "D": "All of the above"
+        },
+        "Answer": "D"
+      },
+      {
+        "S.N.": 5,
+        "Question": "What happens if one changes the color of a vehicle with his/her own desire?",
+        "Options": {
+          "A": "Looks good",
+          "B": "Looks clean",
+          "C": "Grows Expenses",
+          "D": "Deserves fine"
+        },
+        "Answer": "D"
+      },
+      {
+        "S.N.": 6,
+        "Question": "What is an embossed number plate?",
+        "Options": {
+          "A": "Number plate written with Enamel",
+          "B": "Number plate written with etched/ brocaded /carved letter",
+          "C": "Number plate written with raised letters",
+          "D": "All of the above"
+        },
+        "Answer": "C"
+      },
+      {
+        "S.N.": 7,
+        "Question": "How much fee does one have to pay to fill up the application for a driving license?",
+        "Options": {
+          "A": "Rs. 100",
+          "B": "Rs. 500",
+          "C": "Rs. 300",
+          "D": "Rs. 400"
+        },
+        "Answer": "C"
+      },
+      {
+        "S.N.": 8,
+        "Question": "Within how much time does one have to inform the office if the driver changes his/her address?",
+        "Options": {
+          "A": "7 days",
+          "B": "15 days",
+          "C": "1 month",
+          "D": "45 days"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 9,
+        "Question": "How many seats are reserved for physically disabled people in large public vehicles that run along local roads?",
+        "Options": {
+          "A": "Two seats",
+          "B": "Three seats",
+          "C": "Four seats",
+          "D": "Five seats"
+        },
+        "Answer": "B"
+      },
+      {
+        "S.N.": 10,
+        "Question": "What is the validity period of a driving license?",
+        "Options": {
+          "A": "One year",
+          "B": "Three years",
+          "C": "Five years",
+          "D": "Ten years"
+        },
+        "Answer": "C"
+      },
+      {
+        "S.N.": 11,
+        "Question": "For driving which vehicle is a 21-year-old (or more) person eligible?",
+        "Options": {
+          "A": "Small",
+          "B": "Medium",
+          "C": "Large",
+          "D": "All of the above"
+        },
+        "Answer": "D"
+      },
+      {
+        "S.N.": 12,
+        "Question": "What is the function of a speedometer?",
+        "Options": {
+          "A": "Measure the speed of the vehicle",
+          "B": "Measure the temperature of the vehicle",
+          "C": "Measure the fuel in the vehicle",
+          "D": "All of the above"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 13,
+        "Question": "Which of the following indicates the level of fuel in the vehicle?",
+        "Options": {
+          "A": "Fuel gauge",
+          "B": "Speedometer",
+          "C": "Thermometer",
+          "D": "All of the above"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 14,
+        "Question": "What should be done while reversing the vehicle?",
+        "Options": {
+          "A": "Stop the vehicle",
+          "B": "Use the reverse gear",
+          "C": "Slowly back the vehicle using the looking glass",
+          "D": "All of the above"
+        },
+        "Answer": "D"
+      },
+      {
+        "S.N.": 15,
+        "Question": "From which part of the vehicle does smoke exit?",
+        "Options": {
+          "A": "Silencer",
+          "B": "Engine",
+          "C": "Gear",
+          "D": "Axle"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 16,
+        "Question": "How often is a government vehicle’s pollution test done?",
+        "Options": {
+          "A": "Every 6 months",
+          "B": "Every year",
+          "C": "Every Two years",
+          "D": "Every three months"
+        },
+        "Answer": "B"
+      },
+      {
+        "S.N.": 17,
+        "Question": "What should not be done if the vehicle from behind tries to overtake?",
+        "Options": {
+          "A": "To slow speed & give side",
+          "B": "To increase the speed",
+          "C": "To blow horn",
+          "D": "Both B and C"
+        },
+        "Answer": "D"
+      },
+      {
+        "S.N.": 18,
+        "Question": "How would one signal the vehicle ahead while overtaking?",
+        "Options": {
+          "A": "By turning headlight",
+          "B": "By blowing horn",
+          "C": "By Turning side light",
+          "D": "All of the above"
+        },
+        "Answer": "A"
+      },
+      {
+        "S.N.": 19,
+        "Question": "What should be done if the vehicle from behind tries to overtake?",
+        "Options": {
+          "A": "To increase the speed",
+          "B": "To slow the speed & let it go",
+          "C": "Blow the horn",
+          "D": "Nothing to be done"
+        },
+        "Answer": "B"
+      },
+      {
+        "S.N.": 20,
+        "Question": "What does a triangular-shaped traffic light sign indicate?",
+        "Options": {
+          "A": "Information",
+          "B": "Awareness",
+          "C": "Prohibition",
+          "D": "All of the above"
+        },
+        "Answer": "C"
+      },
+      {
+        "S.N.": 21,
+        "Question": "How many types of colors are there in a traffic light?",
+        "Options": {
+          "A": "2 types",
+          "B": "3 types",
+          "C": "4 types",
+          "D": "5 types"
+        },
+        "Answer": "B"
+      },
+      {
+        "S.N.": 22,
+        "Question": "What should be done when the green light glows when you reach a zebra crossing?",
+        "Options": {
+          "A": "To keep on going ahead",
+          "B": "To stop the vehicle",
+          "C": "To be prepared to drive the vehicle ahead",
+          "D": "All of the above"
+        },
+        "Answer": "C"
+      },
+      {
+        "S.N.": 23,
+        "Question": "What does this traffic sign mean?",
+        "Options": {
+          "A": "Petrol pump",
+          "B": "Double turn first left",
+          "C": "Prohibition of parking",
+          "D": "Vehicle may come from the right"
+        },
+        "Answer": "B"
+      },
+      {
+        "S.N.": 24,
+        "Question": "What does this traffic sign mean?",
+        "Options": {
+          "A": "One after another two-way",
+          "B": "Pet",
+          "C": "Wild animal",
+          "D": "Narrow path from the right"
+        },
+        "Answer": "D"
+      },
+      {
+        "S.N.": 25,
+        "Question": "What does this traffic sign mean?",
+        "Options": {
+          "A": "Pet",
+          "B": "Ride height limit",
+          "C": "Train without a gate",
+          "D": "Traffic sign"
+        },
+        "Answer": "B"
+      }
+    ]
+  }
